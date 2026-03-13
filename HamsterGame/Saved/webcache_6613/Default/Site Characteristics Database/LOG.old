@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 2026/03/12-17:18:58.314 49f4 Log #3: 3 ops saved to Table #4 OK
 2026/03/12-17:18:58.334 49f4 Archiving D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
 2026/03/12-17:18:58.348 49f4 Table #4: 3 entries OK
 2026/03/12-17:18:58.414 49f4 Archiving D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
 2026/03/12-17:18:58.652 49f4 **** Repaired leveldb D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 207 bytes. Some data may have been lost. ****
+=======
+2026/03/12-16:56:24.699 85e0 Reusing MANIFEST C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/03/12-16:56:24.700 85e0 Recovering log #3
+2026/03/12-16:56:24.700 85e0 Reusing old log C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613\Default\Site Characteristics Database/000003.log 
+>>>>>>> Stashed changes
