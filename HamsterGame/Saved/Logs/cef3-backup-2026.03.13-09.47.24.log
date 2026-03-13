@@ -1,0 +1,35 @@
+<<<<<<< Updated upstream
+[13592:8848:0312/171845.710:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[13592:8848:0312/171849.150:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[13592:8848:0312/171854.339:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[13592:17052:0312/172016.227:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:17052:0312/172016.300:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:17052:0312/172016.329:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:17052:0312/172016.604:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:8848:0312/172017.888:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[13592:18932:0312/172019.729:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:18932:0312/172020.102:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13592:8848:0312/175128.724:ERROR:device_event_log_impl.cc(196)] [17:51:28.664] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0312/175128.758:ERROR:device_event_log_impl.cc(196)] [17:51:28.747] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0312/175128.790:ERROR:device_event_log_impl.cc(196)] [17:51:28.775] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0312/175128.840:ERROR:device_event_log_impl.cc(196)] [17:51:28.824] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0312/175128.840:ERROR:device_event_log_impl.cc(196)] [17:51:28.827] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/103622.104:ERROR:device_event_log_impl.cc(196)] [10:36:22.035] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/103622.249:ERROR:device_event_log_impl.cc(196)] [10:36:22.231] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/103622.288:ERROR:device_event_log_impl.cc(196)] [10:36:22.279] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/103622.310:ERROR:device_event_log_impl.cc(196)] [10:36:22.293] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/103622.310:ERROR:device_event_log_impl.cc(196)] [10:36:22.294] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/104110.249:ERROR:device_event_log_impl.cc(196)] [10:41:10.198] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/104110.325:ERROR:device_event_log_impl.cc(196)] [10:41:10.313] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/104110.345:ERROR:device_event_log_impl.cc(196)] [10:41:10.328] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/104110.400:ERROR:device_event_log_impl.cc(196)] [10:41:10.383] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/104110.401:ERROR:device_event_log_impl.cc(196)] [10:41:10.384] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[13592:8848:0313/104137.331:ERROR:device_event_log_impl.cc(196)] [10:41:37.295] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13592:8848:0313/104617.313:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[31844:31040:0313/104310.840:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[31844:17368:0313/104310.876:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[31844:31040:0313/104310.904:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[31844:31040:0313/104319.878:ERROR:device_event_log_impl.cc(196)] [10:43:19.874] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[31844:31040:0313/104545.173:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
