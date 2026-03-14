@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_Player.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/IM_Inputs.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/GameMode/BP_HamsterGamemode.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_PlayerController.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/W_Options.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Pause.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Fab/Beach_Ball_-_Low_Poly/beach_ball_low_poly/Textures/beach_ball_low_poly_texture_0.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Fab/Beach_Ball_-_Low_Poly/beach_ball_low_poly/Textures/beach_ball_low_poly_texture_1.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Fab/Beach_Ball_-_Low_Poly/beach_ball_low_poly/Textures/beach_ball_low_poly_texture_2.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Fab/Beach_Ball_-_Low_Poly/beach_ball_low_poly/Materials/BeachBall.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Fab/Beach_Ball_-_Low_Poly/beach_ball_low_poly/StaticMeshes/beach_ball_low_poly.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/IM_Inputs.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Look.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Walk_Forward.uasset",
@@ -16,14 +27,8 @@
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Move.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_LookXY.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_LookUp.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_Player.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/IM_Inputs.uasset",
 				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Tab_Pause.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/GameMode/BP_HamsterGamemode.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_PlayerController.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/NewWidgetBlueprint.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/W_Options.uasset",
-				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/IA_Pause.uasset"
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/NewWidgetBlueprint.uasset"
 			]
 		}
 	]
