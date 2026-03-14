@@ -1,0 +1,15 @@
+[10476:16104:0314/150443.243:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10476:16104:0314/150446.752:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[10476:16104:0314/150453.058:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10476:25508:0314/150626.114:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10476:25508:0314/150626.205:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10476:25508:0314/150626.301:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10476:25508:0314/150626.693:WARNING:leveldb_database.cc(141)] Unable to open D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10476:16104:0314/150637.311:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[24788:24924:0314/150646.439:ERROR:frame_impl.cc(537)] frame 5-7F072B961CE5A677828244C81706E079 connection timeout
+[13516:18460:0314/150656.328:ERROR:backend_impl.cc(989)] Critical error found -8
+[13516:18460:0314/150656.993:WARNING:storage_block-inl.h(138)] Failed data load.
+[13516:18460:0314/150657.021:WARNING:storage_block-inl.h(138)] Failed data load.
+[13516:18460:0314/150657.022:ERROR:entry_impl.cc(955)] Failed to save user data
+[10476:25508:0314/150659.047:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10476:25508:0314/150659.053:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
