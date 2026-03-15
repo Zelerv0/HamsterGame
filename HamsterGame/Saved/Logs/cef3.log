@@ -1,18 +1,16 @@
-<<<<<<< Updated upstream
-[22708:19964:0314/160906.173:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[22708:19964:0314/160915.708:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[22708:19964:0314/161044.196:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[23500:15676:0314/161059.106:ERROR:frame_impl.cc(537)] frame 5-D1DC07AFDC4B63D909AF5D4C433F370A connection timeout
-[22708:19964:0314/220802.933:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
-=======
-[8636:19728:0314/145654.617:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8636:26136:0314/145654.651:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8636:19728:0314/145654.674:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28668:31528:0314/145658.232:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-928007613653A225CCA65C33DA1724F1 will be ignored
-[8636:19728:0314/145702.250:ERROR:device_event_log_impl.cc(196)] [14:57:01.922] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8636:19728:0314/153847.953:ERROR:device_event_log_impl.cc(196)] [15:38:47.940] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8636:19728:0314/162717.926:ERROR:device_event_log_impl.cc(196)] [16:27:17.841] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8636:19728:0314/172357.645:ERROR:device_event_log_impl.cc(196)] [17:23:57.356] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8636:19728:0314/191044.757:ERROR:device_event_log_impl.cc(196)] [19:10:44.458] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[8636:19728:0314/191125.649:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
->>>>>>> Stashed changes
+[6024:22524:0315/130523.032:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6024:22524:0315/130523.114:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[6024:13456:0315/130523.212:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6024:22524:0315/130523.335:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6024:13456:0315/130527.838:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:13456:0315/130527.842:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:13456:0315/130527.843:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:13456:0315/130527.845:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_1\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:4532:0315/130528.067:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:4532:0315/130528.068:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[6024:22524:0315/130528.523:ERROR:device_event_log_impl.cc(196)] [13:05:28.518] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[13436:32788:0315/130529.244:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1204D54EE991A4BBCB62D3D03A4713A2 will be ignored
+[6024:22524:0315/140615.360:ERROR:device_event_log_impl.cc(196)] [14:06:15.360] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6024:22524:0315/153439.175:ERROR:device_event_log_impl.cc(196)] [15:34:39.071] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6024:22524:0315/155009.236:ERROR:device_event_log_impl.cc(196)] [15:50:08.949] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[6024:22524:0315/164908.085:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
