@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Inputs/IM_Inputs.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_PlayerController.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/W_KeyBindSlot.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/W_Options.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_BasePlayerPawn.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/Actions_Movement/IA_Jump.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_PlayerController.uasset",
