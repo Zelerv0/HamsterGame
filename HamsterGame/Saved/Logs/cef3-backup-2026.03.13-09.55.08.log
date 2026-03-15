@@ -1,8 +1,0 @@
-[6900:1960:0313/105342.703:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[6900:14164:0313/105342.737:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[6900:1960:0313/105342.758:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[6900:1960:0313/105344.462:WARNING:alloy_constrained_window_views_client.cc(77)] No likely focused browser
-[19008:5396:0313/105344.647:ERROR:backend_impl.cc(989)] Critical error found -8
-[19008:5396:0313/105344.647:ERROR:entry_impl.cc(1029)] No file for b2020000
-[19008:5396:0313/105344.647:WARNING:storage_block-inl.h(138)] Failed data load.
-[22580:13264:0313/105345.447:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-058353CCC5983C9BA59CE27ED7368584 will be ignored
