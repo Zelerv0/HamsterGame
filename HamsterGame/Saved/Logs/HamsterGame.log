@@ -3361,3 +3361,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.16-15.52.39:932][487]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.03.16-15.52.40:031][487]LogXGEController: Cleaning working directory: C:/Users/Zelerv/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.03.16-15.52.40:314][487]LogPakFile: Destroying PakPlatformFile
+[2026.03.16-15.52.40:991][487]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.16-15.52.41:252][487]LogExit: Exiting.
+[2026.03.16-15.52.41:441][487]Log file closed, 03/16/26 16:52:41
