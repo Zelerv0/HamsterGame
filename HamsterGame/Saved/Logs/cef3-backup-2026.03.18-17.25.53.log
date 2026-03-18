@@ -1,0 +1,8 @@
+[20896:16920:0318/133257.519:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20896:16920:0318/133308.622:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20896:16920:0318/133444.728:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[20896:16920:0318/154720.929:ERROR:device_event_log_impl.cc(196)] [15:47:20.834] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20896:16920:0318/154720.997:ERROR:device_event_log_impl.cc(196)] [15:47:20.976] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[20896:16920:0318/154721.035:ERROR:device_event_log_impl.cc(196)] [15:47:21.019] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[20896:16920:0318/154721.055:ERROR:device_event_log_impl.cc(196)] [15:47:21.034] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[20896:16920:0318/154721.055:ERROR:device_event_log_impl.cc(196)] [15:47:21.036] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
