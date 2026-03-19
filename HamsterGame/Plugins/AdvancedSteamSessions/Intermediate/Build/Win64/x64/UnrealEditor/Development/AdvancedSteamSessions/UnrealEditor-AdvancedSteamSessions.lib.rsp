@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Intermediate/Build/Win64/x64/HamsterGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Plugins/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSteamSessions/Module.AdvancedSteamSessions.cpp.obj"
+"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Plugins/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSteamSessions/Default.rc2.res"
+/OUT:"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Plugins/AdvancedSteamSessions/Intermediate/Build/Win64/x64/UnrealEditor/Development/AdvancedSteamSessions/UnrealEditor-AdvancedSteamSessions.lib"
