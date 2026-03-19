@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HamsterGame",
+			"Path": "..\\Source\\HamsterGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HamsterGameEditor",
+			"Path": "..\\Source\\HamsterGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
