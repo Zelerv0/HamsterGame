@@ -1,6 +1,26 @@
-[1072:13932:0320/200605.569:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1072:24352:0320/200605.717:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1072:13932:0320/200605.787:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15112:6712:0320/200610.875:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2AEAE8D5686D13C86ED35A8E8C750208 will be ignored
-[1072:13932:0320/200614.280:ERROR:device_event_log_impl.cc(196)] [20:06:14.275] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[1072:13932:0320/200757.995:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[36460:38920:0320/202609.338:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36460:39968:0320/202609.371:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36460:38920:0320/202609.391:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20004:24636:0320/202612.736:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-C986FF4359AF42577AF967AAA47F9691 will be ignored
+[7840:11000:0320/202613.738:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[7840:11000:0320/202614.077:ERROR:backend_impl.cc(989)] Critical error found -8
+[7840:11000:0320/202614.086:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.086:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.086:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.086:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:ERROR:entry_impl.cc(1029)] No file for c1030042
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:ERROR:entry_impl.cc(1029)] No file for b2020024
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.087:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.250:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.250:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.250:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.545:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.545:WARNING:storage_block-inl.h(138)] Failed data load.
+[7840:11000:0320/202614.545:WARNING:storage_block-inl.h(138)] Failed data load.
+[36460:38920:0320/202618.068:ERROR:device_event_log_impl.cc(196)] [20:26:17.740] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[36460:38920:0320/203451.773:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
