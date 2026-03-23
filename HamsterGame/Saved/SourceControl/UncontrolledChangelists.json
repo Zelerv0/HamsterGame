@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GutHib/HamsterGame/HamsterGame/Content/Materials/NewMaterial.uasset",
+				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_BasePlayerPawn.uasset",
+				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Projectile/BasicProjectile.uasset",
+				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/Keys/Actions_Shooting/IA_Shoot.uasset",
+				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Inputs/IM_Inputs.uasset",
+				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_Base_PlayerController.uasset"
+			]
+		}
+	]
+}
