@@ -1,0 +1,9 @@
+[18844:20724:0323/171220.335:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18844:20724:0323/171232.412:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[18844:20724:0323/171416.188:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[18844:20724:0323/181402.133:ERROR:device_event_log_impl.cc(196)] [18:14:01.783] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18844:20724:0323/185107.523:ERROR:device_event_log_impl.cc(196)] [18:51:07.499] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18844:20724:0323/190612.926:ERROR:device_event_log_impl.cc(196)] [19:06:12.801] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18844:20724:0323/192815.739:ERROR:device_event_log_impl.cc(196)] [19:28:15.514] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18844:20724:0324/000412.408:ERROR:device_event_log_impl.cc(196)] [00:04:11.466] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18844:20724:0324/000552.912:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
