@@ -1,4 +1,0 @@
-[17744:18960:0321/005127.722:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17744:18960:0321/005139.379:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17744:18960:0321/005308.969:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[19080:19144:0321/005319.101:ERROR:frame_impl.cc(537)] frame 5-EE376DBDEE2489C42531642CC3C6F679 connection timeout
