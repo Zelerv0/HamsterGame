@@ -1,4 +1,3 @@
-[7448:13440:0327/142219.977:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[7448:13440:0327/142237.146:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[7448:13440:0327/142418.821:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[15240:13560:0327/142447.092:ERROR:frame_impl.cc(537)] frame 5-1CCF3161F3AB109D656777865F89BBEF connection timeout
+[14832:22280:0327/212550.204:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14832:22280:0327/212557.904:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14832:22280:0327/230258.114:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
