@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/GameMode/BP_1V1GameMode.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_LobbyController.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/BluePrints/Widgets/Lobby/CharacterSelection/W_Character.uasset",
+				"C:/Users/PC/OneDrive/Dokumenty/Unreal Projects/GP_Game/HamsterGame/HamsterGame/Content/Levels/PrototypeLvl.umap",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/BP_BasePlayerPawn.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Projectile/BP_GrapplingHook.uasset",
 				"D:/GutHib/HamsterGame/HamsterGame/Content/BluePrints/Character/Enums/E_GrappleHookStates.uasset",
