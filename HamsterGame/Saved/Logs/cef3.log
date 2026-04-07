@@ -1,35 +1,5 @@
-[4488:32420:0407/010756.796:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[4488:12352:0407/010756.828:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4488:32420:0407/010756.855:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[4488:27260:0407/010758.931:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4488:27260:0407/010758.932:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4488:27260:0407/010758.936:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4488:27260:0407/010758.936:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4488:39928:0407/010801.281:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[4488:39928:0407/010801.285:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[37688:24412:0407/010801.801:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[4488:32420:0407/010802.456:ERROR:device_event_log_impl.cc(196)] [01:08:02.129] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[3096:4776:0407/010802.465:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2CE279C2A45955C265A70DC525C425A1 will be ignored
-[37688:24412:0407/010802.787:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[37688:24412:0407/010802.792:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[37688:24412:0407/010802.792:ERROR:backend_impl.cc(989)] Critical error found -8
-[37688:24412:0407/010802.792:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010802.792:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010802.792:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010802.792:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010802.792:ERROR:entry_impl.cc(1029)] No file for c1030006
-[37688:24412:0407/010802.794:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.488:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.488:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.489:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.489:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.489:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.489:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.506:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.506:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.507:ERROR:entry_impl.cc(955)] Failed to save user data
-[37688:24412:0407/010803.507:ERROR:entry_impl.cc(955)] Failed to save user data
-[37688:24412:0407/010803.518:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.518:WARNING:storage_block-inl.h(138)] Failed data load.
-[37688:24412:0407/010803.519:ERROR:entry_impl.cc(955)] Failed to save user data
-[4488:32420:0407/011218.102:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14696:34300:0407/164629.011:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14696:34300:0407/164638.590:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[14696:34300:0407/164702.369:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14696:34300:0407/164942.184:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[14696:34300:0407/211845.860:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
