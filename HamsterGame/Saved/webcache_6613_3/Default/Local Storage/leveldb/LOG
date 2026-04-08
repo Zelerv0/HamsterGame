@@ -1,8 +1,3 @@
-2026/04/07-23:23:39.153 1ac8 Reusing MANIFEST C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/07-23:23:39.158 1ac8 Recovering log #36
-2026/04/07-23:23:39.158 1ac8 Level-0 table #39: started
-2026/04/07-23:23:39.164 1ac8 Level-0 table #39: 69600 bytes OK
-2026/04/07-23:23:39.165 1ac8 Recovering log #39
-2026/04/07-23:23:39.168 1ac8 Reusing old log C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/000039.log 
-2026/04/07-23:23:39.170 1ac8 Delete type=0 #36
-2026/04/07-23:23:39.170 1ac8 Delete type=2 #40
+2026/04/08-15:45:24.425 f6c Reusing MANIFEST D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/08-15:45:25.371 f6c Recovering log #39
+2026/04/08-15:45:25.375 f6c Reusing old log D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/000039.log 
