@@ -1,14 +1,2 @@
-2026/04/13-12:54:43.476 2fa4 Reusing MANIFEST C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/13-12:54:43.479 2fa4 Recovering log #124
-2026/04/13-12:54:43.480 2fa4 Level-0 table #127: started
-2026/04/13-12:54:43.485 2fa4 Level-0 table #127: 69683 bytes OK
-2026/04/13-12:54:43.491 2fa4 Delete type=0 #124
-2026/04/13-12:54:43.492 4224 Compacting 4@0 + 1@1 files
-2026/04/13-12:54:43.498 4224 Generated table #129@0: 7 keys, 53898 bytes
-2026/04/13-12:54:43.498 4224 Compacted 4@0 + 1@1 files => 53898 bytes
-2026/04/13-12:54:43.499 4224 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/04/13-12:54:43.501 4224 Delete type=2 #115
-2026/04/13-12:54:43.501 4224 Delete type=2 #117
-2026/04/13-12:54:43.501 4224 Delete type=2 #119
-2026/04/13-12:54:43.501 4224 Delete type=2 #125
-2026/04/13-12:54:43.501 4224 Delete type=2 #127
+2026/04/15-15:29:40.149 4b78 Reusing MANIFEST D:\GutHib\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/15-15:29:41.581 4b78 Delete type=0 #131
