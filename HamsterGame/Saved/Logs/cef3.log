@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [11432:25232:0414/202006.198:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [11432:26212:0414/202006.232:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
 [11432:25232:0414/202006.251:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -10,3 +11,17 @@
 [11432:25232:0414/202011.830:ERROR:device_event_log_impl.cc(196)] [20:20:11.500] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
 [19184:2396:0414/202012.503:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A783FCD0FE16C9CD51E323006C9F8E62 will be ignored
 [11432:25232:0414/202938.751:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[17256:11420:0414/154245.470:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17256:11420:0414/154250.078:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[17256:11420:0414/154259.127:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17256:11420:0414/154428.668:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[17256:11420:0414/155339.232:ERROR:device_event_log_impl.cc(196)] [15:53:38.867] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/161354.070:ERROR:device_event_log_impl.cc(196)] [16:13:54.045] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/162157.905:ERROR:device_event_log_impl.cc(196)] [16:21:57.644] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/162810.892:ERROR:device_event_log_impl.cc(196)] [16:28:10.865] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/163408.241:ERROR:device_event_log_impl.cc(196)] [16:34:08.041] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/171021.704:ERROR:device_event_log_impl.cc(196)] [17:10:21.677] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0414/171334.391:ERROR:device_event_log_impl.cc(196)] [17:13:34.253] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[17256:11420:0415/021910.791:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
