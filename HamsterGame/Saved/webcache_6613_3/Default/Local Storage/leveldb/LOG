@@ -1,3 +1,14 @@
-2026/04/15-16:06:17.642 2ee0 Reusing MANIFEST C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/15-16:06:17.649 2ee0 Recovering log #137
-2026/04/15-16:06:17.652 2ee0 Reusing old log C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/000137.log 
+2026/04/15-17:19:24.538 76b4 Reusing MANIFEST C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/15-17:19:24.546 76b4 Recovering log #137
+2026/04/15-17:19:24.547 76b4 Level-0 table #140: started
+2026/04/15-17:19:24.553 76b4 Level-0 table #140: 77311 bytes OK
+2026/04/15-17:19:24.558 76b4 Delete type=0 #137
+2026/04/15-17:19:24.559 70e4 Compacting 4@0 + 1@1 files
+2026/04/15-17:19:24.567 70e4 Generated table #142@0: 7 keys, 56442 bytes
+2026/04/15-17:19:24.567 70e4 Compacted 4@0 + 1@1 files => 56442 bytes
+2026/04/15-17:19:24.568 70e4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/15-17:19:24.569 70e4 Delete type=2 #129
+2026/04/15-17:19:24.569 70e4 Delete type=2 #131
+2026/04/15-17:19:24.569 70e4 Delete type=2 #134
+2026/04/15-17:19:24.569 70e4 Delete type=2 #138
+2026/04/15-17:19:24.569 70e4 Delete type=2 #140
