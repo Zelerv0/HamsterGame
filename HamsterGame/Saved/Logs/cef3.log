@@ -1,5 +1,18 @@
-[20528:16008:0415/164253.557:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20528:16008:0415/164253.740:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
-[20528:16008:0415/164253.846:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[3752:14460:0415/164318.054:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DB8CA149238106DF53EB5A601A125E05 will be ignored
-[20528:16008:0416/011212.523:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[16908:5744:0416/014518.493:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[16908:5744:0416/014518.506:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[16908:592:0416/014518.533:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[16908:5744:0416/014518.554:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16908:3768:0416/014521.735:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16908:3768:0416/014521.737:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16908:3768:0416/014521.738:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16908:3768:0416/014521.738:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata: IO error: C:\Users\PC\OneDrive\Dokumenty\Unreal Projects\GP_Game\HamsterGame\HamsterGame\Saved\webcache_6613_3\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16908:20020:0416/014522.885:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16908:20020:0416/014522.888:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[34720:6624:0416/014524.582:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[34720:6624:0416/014524.582:ERROR:backend_impl.cc(989)] Critical error found -8
+[16908:5744:0416/014524.737:ERROR:device_event_log_impl.cc(196)] [01:45:24.584] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[34720:6624:0416/014524.791:WARNING:storage_block-inl.h(138)] Failed data load.
+[34720:6624:0416/014524.791:WARNING:storage_block-inl.h(138)] Failed data load.
+[34720:6624:0416/014524.792:ERROR:entry_impl.cc(955)] Failed to save user data
+[34244:29596:0416/014526.266:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-554A641874835EB1F959B0DFBC5AD6DA will be ignored
+[16908:5744:0416/020424.407:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
